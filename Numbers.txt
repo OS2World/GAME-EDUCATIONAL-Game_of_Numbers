@@ -1,0 +1,23 @@
+	Game of Numbers
+	--------------
+
+	programmed by R. Grothmann
+
+
+The goal of this game is simply to combine six given numbers using +,-,* 
+and / to produce a given result. Each number may only be used once. The 
+computer can produce a solution, if you are helpless. You can also enter a 
+problem of your own.
+
+The program is running on OS/2 PM. It has online help in english or german 
+language. To use the english version start "numbers.exe", and "zahlen.exe" 
+for the german version.
+
+The C++-source is included in a separate directory. It has been compiled 
+with the Borland-C++ compiler.
+
+Best wishes/2
+R. Grothmann
+EMail: rene.grothmann@ku-eichstaett.de
+
+
